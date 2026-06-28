@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋 🇧🇷🇮🇹
+
+I'm an **Electrical Engineer** and **Data Scientist & Data Engineer** passionate about AI, NLP, Agents, and open-source software.
+
+* ✨🇧🇷 I trained [BERTugues](https://huggingface.co/ricardoz/BERTugues-base-portuguese-cased), a Portuguese BERT model focused on improving NLP resources for Brazilian Portuguese.
+* 📈 I developed [**tsknn**](https://github.com/ricardozago/tsknn), a Python library implementing **Time Series K-Nearest Neighbors (TSKNN)** for forecasting.
+* 🤖 I enjoy building AI-powered applications (and yes, a bit of vibe coding).
+  * One example is an [Agentic Document Translator](https://github.com/ricardozago/Agentic-Document-Translator), built with LangGraph for translating books and documents.
+
+Most of my repositories are side projects, research, or experiments exploring new ideas. Feel free to look around!
+
 
 <!--
 **ricardozago/ricardozago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
