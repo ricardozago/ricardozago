@@ -4,8 +4,9 @@ I'm an **Electrical Engineer** and **Data Scientist & Data Engineer** passionate
 
 * ✨🇧🇷 I trained [BERTugues](https://huggingface.co/ricardoz/BERTugues-base-portuguese-cased), a Portuguese BERT model focused on improving NLP resources for Brazilian Portuguese.
 * 📈 I developed [**tsknn**](https://github.com/ricardozago/tsknn), a Python library implementing **Time Series K-Nearest Neighbors (TSKNN)** for forecasting.
-* 🤖 I enjoy building AI-powered applications (and yes, a bit of vibe coding).
-  * One example is an [Agentic Document Translator](https://github.com/ricardozago/Agentic-Document-Translator), built with LangGraph for translating books and documents.
+* 🤖 I enjoy building applications with AI helpe (yes, a bit of vibe coding).
+  * [Agentic Document Translator](https://github.com/ricardozago/Agentic-Document-Translator), built with LangGraph for translating books and documents.
+  * [Podcast Transcriber Indexer](https://github.com/ricardozago/podcast-transcriber-indexer), download podcasts, transcribe them, and search for segments of interest. 
 
 Most of my repositories are side projects, research, or experiments exploring new ideas. Feel free to look around!
 
